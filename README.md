@@ -4,4 +4,4 @@ The objective of this project is to design an interactive Power BI dashboard for
 
 
 ## Dataset used
-< a href = "https://github.com/Priti8570/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+< a href = "https://github.com/Priti8570/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset</a>
